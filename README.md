@@ -11,7 +11,7 @@ Countries with the highest sales outside the UK
 
 Top customers by revenue
 
-Sales trends over time (monthly/weekly patterns)
+Sales trends over time
 
 🛠️ Tools & Technologies
 Python
@@ -49,7 +49,7 @@ To run this project locally:
 
 Clone the repository
 
-Install the required Python libraries (requirements.txt if provided)
+Install the required Python libraries
 
 Open the Jupyter notebook and run the cells step-by-step
 
