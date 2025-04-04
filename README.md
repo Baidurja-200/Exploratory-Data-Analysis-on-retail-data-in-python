@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-on-retail-data-in-python
+This is a coursera guided project where I carried out exploratory data analysis using python in the data of a UK based registered non store online retail with the transaction data from 01/12/2010 to 09/12/2011. In this project we found different insights of the data like top selling products, top countries where products were sold and top customer.
